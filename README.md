@@ -1,9 +1,5 @@
 # ai-crypto-trading-dashboard
 AI-powered cryptocurrency trading dashboard built with Python and Streamlit. Includes market simulation, AI trading signals, 60-second demo trades, portfolio tracking, and trade history.
-# AI Crypto Trading Dashboard
-
-An AI-powered cryptocurrency trading dashboard built with **Python** and **Streamlit**.
-This project provides a user-friendly environment for cryptocurrency market simulation, AI-based trading signals, 60-second demo trading, portfolio tracking, and trade history.
 
 ## Features
 
