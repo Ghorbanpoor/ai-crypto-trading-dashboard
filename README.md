@@ -46,7 +46,7 @@ ai-crypto-trading-dashboard/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-crypto-trading-dashboard.git
+git clone https://github.com/Ghorbanpoor/ai-crypto-trading-dashboard.git
 cd ai-crypto-trading-dashboard
 ```
 
